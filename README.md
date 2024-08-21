@@ -29,8 +29,9 @@ Welcome to the **Modern OpenGL Essentials: First Steps Playlist** playlist! This
 
 ## Link para o playlist no YouTube:
 <a href="https://youtube.com/playlist?list=PLVRDPs83ZhmfQGjLmOr6-m8VcPxjg_Jv0">
-    <img src="https://img.youtube.com/vi/MqIg2InJTKM/default.jpg" alt="Link to video 01" width="400" />
+    <img src="https://img.youtube.com/vi/MqIg2InJTKM/default.jpg" alt="Link to video 01" width="200" />
 </a>
+
 ## Get Started
 
 Ready to dive into graphical programming? [Watch the Playlist](https://www.youtube.com/playlist?list=PLVRDPs83ZhmfQGjLmOr6-m8VcPxjg_Jv0) on YouTube and start your journey with OpenGL!
