@@ -6,11 +6,46 @@ Welcome to the **Modern OpenGL Essentials: First Steps Playlist** playlist! This
 
 ## Topics Covered
 
-| **Video** | **Topics Covered** |
-|-----------|---------------------|
-| **[Video 1](https://youtu.be/MqIg2InJTKM?si=Qn4CiumsTw8yk-SN)** <br> Duration: 5:24 | - Installation of GLFW with vcpkg <br> - Drawing a triangle in Legacy mode <br> - Installation of GLEW |
-| **[Video 2](https://youtu.be/-dK5QUrJX4E?si=feVAqpEvTSmxZDRY)** <br> Duration: 7:16 | - glGenBuffers <br> - glBindBuffer <br> - glBufferData |
-| **[Video 3](https://youtu.be/P3PTqWFTvbU?si=dAM8Ain8dMaZ0Uso)** <br> Duration: 7:10 | - glVertexAttribPointer <br> - glEnableVertexAttribArray <br> - glDrawArrays <br> - Drawing a triangle at the end |
+<table>
+  <tr>
+    <th style="text-align:left;">**Video**</th>
+    <th style="text-align:left;">**Topics Covered**</th>
+  </tr>
+  <tr>
+    <td style="font-size: smaller;">
+      <strong><a href="https://youtu.be/MqIg2InJTKM?si=Qn4CiumsTw8yk-SN">Video 1</a></strong><br>
+      Duration: 5:24
+    </td>
+    <td style="font-size: smaller;">
+      - Installation of GLFW with vcpkg<br>
+      - Drawing a triangle in Legacy mode<br>
+      - Installation of GLEW
+    </td>
+  </tr>
+  <tr>
+    <td style="font-size: smaller;">
+      <strong><a href="https://youtu.be/-dK5QUrJX4E?si=feVAqpEvTSmxZDRY">Video 2</a></strong><br>
+      Duration: 7:16
+    </td>
+    <td style="font-size: smaller;">
+      - glGenBuffers<br>
+      - glBindBuffer<br>
+      - glBufferData
+    </td>
+  </tr>
+  <tr>
+    <td style="font-size: smaller;">
+      <strong><a href="https://youtu.be/P3PTqWFTvbU?si=dAM8Ain8dMaZ0Uso">Video 3</a></strong><br>
+      Duration: 7:10
+    </td>
+    <td style="font-size: smaller;">
+      - glVertexAttribPointer<br>
+      - glEnableVertexAttribArray<br>
+      - glDrawArrays<br>
+      - Drawing a triangle at the end
+    </td>
+  </tr>
+</table>
 
 
 ## How to Use This Playlist
