@@ -4,15 +4,25 @@ Welcome to the **Modern OpenGL Essentials: First Steps Playlist** playlist! This
 
 ## Playlist Overview
 
-### Topics Covered:
-- **Graphic Pipeline**: Understand the flow of data from input to final rendering on screen.
-- **VBO (Vertex Buffer Objects)**: Learn how to store vertex data efficiently.
-- **VAO (Vertex Array Objects)**: Discover how to organize and bind vertex attributes for rendering.
-- **EBO (Element Buffer Objects)**: Get familiar with indexing and drawing vertices using indices.
-- **Uniforms Data**: Explore how to pass data from CPU to GPU and how to use it in shaders.
-- **Shaders**: Dive into the world of vertex and fragment shaders to customize rendering.
-- **Multiple Shaders**: Learn to use and manage different shaders for various effects.
-- **Instancing**: Master the technique of rendering multiple instances of objects efficiently.
+## Topics Covered
+
+- **[Video 1](https://youtu.be/MqIg2InJTKM?si=Qn4CiumsTw8yk-SN)**:
+     - Installation of GLFW with vcpkg
+     - Drawing a triangle in Legacy mode
+     - Installation of GLEW
+       
+- **[Video 2](https://youtu.be/-dK5QUrJX4E?si=feVAqpEvTSmxZDRY)**:
+   - glGenBuffers
+   - glBindBuffer
+   - glBufferData
+     
+- **[Video 3](https://youtu.be/P3PTqWFTvbU?si=dAM8Ain8dMaZ0Uso)**:
+   - glVertexAttribPointer
+   - glEnableVertexAttribArray
+   - glDrawArrays
+   - Drawing a triangle at the end
+
+
 
 ### Video Details:
 - **Number of Videos**: 31
