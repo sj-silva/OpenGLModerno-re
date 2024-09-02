@@ -6,21 +6,11 @@ Welcome to the **Modern OpenGL Essentials: First Steps Playlist** playlist! This
 
 ## Topics Covered
 
-- **[Video 1](https://youtu.be/MqIg2InJTKM?si=Qn4CiumsTw8yk-SN)**:
-     - Installation of GLFW with vcpkg
-     - Drawing a triangle in Legacy mode
-     - Installation of GLEW
-       
-- **[Video 2](https://youtu.be/-dK5QUrJX4E?si=feVAqpEvTSmxZDRY)**:
-   - glGenBuffers
-   - glBindBuffer
-   - glBufferData
-     
-- **[Video 3](https://youtu.be/P3PTqWFTvbU?si=dAM8Ain8dMaZ0Uso)**:
-   - glVertexAttribPointer
-   - glEnableVertexAttribArray
-   - glDrawArrays
-   - Drawing a triangle at the end
+| **Video** | **Topics** |
+|-----------|------------|
+| **[Video 1](https://youtu.be/MqIg2InJTKM?si=Qn4CiumsTw8yk-SN)** | - Installation of GLFW with vcpkg <br> - Drawing a triangle in Legacy mode <br> - Installation of GLEW |
+| **[Video 2](https://youtu.be/-dK5QUrJX4E?si=feVAqpEvTSmxZDRY)** | - glGenBuffers <br> - glBindBuffer <br> - glBufferData |
+| **[Video 3](https://youtu.be/P3PTqWFTvbU?si=dAM8Ain8dMaZ0Uso)** | - glVertexAttribPointer <br> - glEnableVertexAttribArray <br> - glDrawArrays <br> - Drawing a triangle at the end |
 
 
 
