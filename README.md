@@ -6,18 +6,12 @@ Welcome to the **Modern OpenGL Essentials: First Steps Playlist** playlist! This
 
 ## Topics Covered
 
-| **Video** | **Topics** |
-|-----------|------------|
-| **[Video 1](https://youtu.be/MqIg2InJTKM?si=Qn4CiumsTw8yk-SN)** | - Installation of GLFW with vcpkg <br> - Drawing a triangle in Legacy mode <br> - Installation of GLEW |
-| **[Video 2](https://youtu.be/-dK5QUrJX4E?si=feVAqpEvTSmxZDRY)** | - glGenBuffers <br> - glBindBuffer <br> - glBufferData |
-| **[Video 3](https://youtu.be/P3PTqWFTvbU?si=dAM8Ain8dMaZ0Uso)** | - glVertexAttribPointer <br> - glEnableVertexAttribArray <br> - glDrawArrays <br> - Drawing a triangle at the end |
+| **Video** | **Topics Covered** |
+|-----------|---------------------|
+| **[Video 1](https://youtu.be/MqIg2InJTKM?si=Qn4CiumsTw8yk-SN)** <br> Duration: 5:24 | - Installation of GLFW with vcpkg <br> - Drawing a triangle in Legacy mode <br> - Installation of GLEW |
+| **[Video 2](https://youtu.be/-dK5QUrJX4E?si=feVAqpEvTSmxZDRY)** <br> Duration: 7:16 | - glGenBuffers <br> - glBindBuffer <br> - glBufferData |
+| **[Video 3](https://youtu.be/P3PTqWFTvbU?si=dAM8Ain8dMaZ0Uso)** <br> Duration: 7:10 | - glVertexAttribPointer <br> - glEnableVertexAttribArray <br> - glDrawArrays <br> - Drawing a triangle at the end |
 
-
-
-### Video Details:
-- **Number of Videos**: 31
-- **Duration**: Each video is concise, with a maximum duration of 14 minutes and an average of around 6 minutes.
-- **Purpose**: The goal of this series is to provide a solid foundation in OpenGL, making complex concepts accessible through short, focused lessons.
 
 ## How to Use This Playlist
 
