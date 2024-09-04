@@ -4,8 +4,6 @@ Welcome to the **Modern OpenGL Essentials: First Steps Playlist** playlist! This
 
 ## Playlist Overview
 
-## Topics Covered
-
 | **Video** | **Topics Covered** |
 |-----------|---------------------|
 | **[Video 1](https://youtu.be/MqIg2InJTKM?si=Qn4CiumsTw8yk-SN)** <br> Duration: 5:24 | - Installation of GLFW with vcpkg <br> - Drawing a triangle in Legacy mode <br> - Installation of GLEW |
