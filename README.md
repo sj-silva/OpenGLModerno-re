@@ -11,7 +11,7 @@ Welcome to the **Modern OpenGL Essentials: First Steps Playlist** playlist! This
 | **[Video 1](https://youtu.be/MqIg2InJTKM?si=Qn4CiumsTw8yk-SN)** <br> Duration: 5:24 | - Installation of GLFW with vcpkg <br> - Drawing a triangle in Legacy mode <br> - Installation of GLEW |
 | **[Video 2](https://youtu.be/-dK5QUrJX4E?si=feVAqpEvTSmxZDRY)** <br> Duration: 7:16 | - glGenBuffers <br> - glBindBuffer <br> - glBufferData |
 | **[Video 3](https://youtu.be/P3PTqWFTvbU?si=dAM8Ain8dMaZ0Uso)** <br> Duration: 7:10 | - glVertexAttribPointer <br> - glEnableVertexAttribArray <br> - glDrawArrays <br> - Drawing a triangle at the end |
-
+| **[Video 4](https://youtu.be/-P28LKWTzrI?si=o6-FW-ToZEPHOiEJ)** <br> Duration: 4:17 | - Graphics Pipeline <br> - NVidia Mythbusters Demo: GPU vs CPU |
 
 
 ## How to Use This Playlist
