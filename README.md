@@ -12,14 +12,6 @@ Welcome to the **Modern OpenGL Essentials: First Steps Playlist** playlist! This
 | **[Video 2](https://youtu.be/-dK5QUrJX4E?si=feVAqpEvTSmxZDRY)** <br> Duration: 7:16 | - glGenBuffers <br> - glBindBuffer <br> - glBufferData |
 | **[Video 3](https://youtu.be/P3PTqWFTvbU?si=dAM8Ain8dMaZ0Uso)** <br> Duration: 7:10 | - glVertexAttribPointer <br> - glEnableVertexAttribArray <br> - glDrawArrays <br> - Drawing a triangle at the end |
 | **[Video 4](https://youtu.be/-P28LKWTzrI?si=o6-FW-ToZEPHOiEJ)** <br> Duration: 4:17 | - Graphics Pipeline <br> - NVidia Mythbusters Demo: GPU vs CPU |
-| **[Video 5]()** <br> Duration: 5:28 | - Discussion of `Main.vert` and `Main.frag` (empty files) <br> - Creation of `Error.h` and `Error.cpp` |
-
-| **Video** | **Topics Covered** |
-|-----------|---------------------|
-| **[Video 1](https://youtu.be/MqIg2InJTKM?si=Qn4CiumsTw8yk-SN)** <br> Duration: 5:24 | - Installation of GLFW with vcpkg <br> - Drawing a triangle in Legacy mode <br> - Installation of GLEW |
-| **[Video 2](https://youtu.be/-dK5QUrJX4E?si=feVAqpEvTSmxZDRY)** <br> Duration: 7:16 | - glGenBuffers <br> - glBindBuffer <br> - glBufferData |
-| **[Video 3](https://youtu.be/P3PTqWFTvbU?si=dAM8Ain8dMaZ0Uso)** <br> Duration: 7:10 | - glVertexAttribPointer <br> - glEnableVertexAttribArray <br> - glDrawArrays <br> - Drawing a triangle at the end |
-| **[Video 4](https://youtu.be/-P28LKWTzrI?si=o6-FW-ToZEPHOiEJ)** <br> Duration: 4:17 | - Graphics Pipeline <br> - NVidia Mythbusters Demo: GPU vs CPU |
 | **[Video 5](https://youtu.be/BACQ1cdBHhk?si=JVZigkyZ-RBg_5V0)** <br> Duration: 5:28 | - Discussion of `Main.vert` and `Main.frag` (empty files) <br> - Creation of `Error.h` and `Error.cpp` |
 | **[Video 6](https://youtu.be/KCEiHRvnbYs?si=4u_Lj5hCC44Pxj7L)** <br> Duration: 3:21 | - Vector and point operations <br> - Explanation of homogeneous coordinates <br> - Example: `gl_Position` using `vec4(x, y, z, 1)` in homogeneous coordinates |
 
