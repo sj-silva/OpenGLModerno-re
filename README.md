@@ -16,6 +16,7 @@ Welcome to the **Modern OpenGL Essentials: First Steps Playlist** playlist! This
 | **[Video 8](https://youtu.be/lz5c1WpBiMg?si=DkZSGGgCGM9fsy68)** <br> Duration: 5:43 | - Coloring a triangle using a uniform variable <br> - Explanation and usage of glGetUniformLocation and glUniform functions|
 | **[Video 9](https://youtu.be/cO5ZVmn6XPw?si=mpTmQDjMPh2u9x8I)** <br> Duration: 7:42 | - Rotating a triangle <br> - Working with the `glUniformMatrix4fv` function |
 | **[Video 10](https://youtu.be/dCd29TxN7XM?si=A8zJLLzHRUIpdvB-)** <br> Duration: 7:11 | - Discussion of the stride concept <br> - Created a color buffer to color the triangle from previous videos |
+| **[Video 11](https://youtu.be/M6IPySbbODk?si=fvo0J5cMV9UADLou)** <br> Duration: 7:41 | - Rotation of a triangle and a square on the same screen <br> - Positioning polygons using the `glm::translate` matrix from the GLM library |
 
 
 
