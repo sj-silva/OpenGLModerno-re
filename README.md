@@ -13,7 +13,7 @@ Welcome to the **Modern OpenGL Essentials: First Steps Playlist** playlist! This
 | **[Video 5](https://youtu.be/BACQ1cdBHhk?si=JVZigkyZ-RBg_5V0)** <br> Duration: 5:28 | - Discussion of `Main.vert` and `Main.frag` (empty files) <br> - Creation of `Error.h` and `Error.cpp` |
 | **[Video 6](https://youtu.be/KCEiHRvnbYs?si=4u_Lj5hCC44Pxj7L)** <br> Duration: 3:21 | - Vector and point operations <br> - Explanation of homogeneous coordinates <br> - Example: `gl_Position` using `vec4(x, y, z, 1)` in homogeneous coordinates |
 | **[Video 7](https://youtu.be/Cj6FBxf2dME?si=uY_H_8m1i9SJb-5b)** <br> Duration: 8:06 | - Explanation of `in` and `out` variables in vertex and fragment shaders <br> - Creation and linking of shaders using `glShaderSource`, `glCompileShader`, `glAttachShader`, `glLinkProgram`, `glDeleteShader`, `glUseProgram` <br> - Rendering a yellow triangle at the end |
-
+| **[Video 8](https://youtu.be/lz5c1WpBiMg?si=DkZSGGgCGM9fsy68)** <br> Duration: 5:43 | - Coloring a triangle using a uniform variable <br> - Explanation and usage of glGetUniformLocation and glUniform functions|
 
 ## How to Use This Playlist
 
