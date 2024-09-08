@@ -17,8 +17,9 @@ Welcome to the **Modern OpenGL Essentials: First Steps Playlist** playlist! This
 | **[Video 9](https://youtu.be/cO5ZVmn6XPw?si=mpTmQDjMPh2u9x8I)** <br> Duration: 7:42 | - Rotating a triangle <br> - Working with the `glUniformMatrix4fv` function |
 | **[Video 10](https://youtu.be/dCd29TxN7XM?si=A8zJLLzHRUIpdvB-)** <br> Duration: 7:11 | - Discussion of the stride concept <br> - Created a color buffer to color the triangle from previous videos |
 | **[Video 11](https://youtu.be/M6IPySbbODk?si=fvo0J5cMV9UADLou)** <br> Duration: 7:41 | - Rotation of a triangle and a square on the same screen <br> - Positioning polygons using the `glm::translate` matrix from the GLM library |
-
-
+| **[Video 12](https://youtu.be/CoQsSe83i3Y?si=dlPiiKfGrNdRekih)** <br> Duration: 5:28 | - Matrix multiplication and the transformation order from model to world coordinate <br> - Positioned 2 triangles and 2 squares, applying scale, rotation, and translation operations |
+| **[Video 13](https://youtu.be/aKEyOv2JreA?si=KvsEmTkOqSw-OPDN)** <br> Duration: 4:09 | - Discussed Vertex Array Object (VAO) <br> - No longer need to save the triangle (and square) position VBO and color VBO globally <br> - Now saving the triangle (and square) VAO <br> - Covered the `glBindVertexArray` function |
+| **[Video 14](https://youtu.be/fBftnaGB4ag?si=4318DQFLfEwB3_bl)** <br> Duration: 6:08 | - Talked about Element Buffer Object (EBO) <br> - Previously needed information of 2 triangles to render a square <br> - Now using an array of indices to connect and color the square <br> - Introduced another OpenGL object: `GL_ELEMENT_ARRAY_BUFFER` <br> - Covered the function `glDrawElements` |
 
 ## How to Use This Playlist
 
