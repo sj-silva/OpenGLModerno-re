@@ -19,7 +19,9 @@ Welcome to the **Modern OpenGL Essentials: First Steps Playlist** playlist! This
 | **[Video 11](https://youtu.be/M6IPySbbODk?si=fvo0J5cMV9UADLou)** <br> Duration: 7:41 | - Rotation of a triangle and a square on the same screen <br> - Positioning polygons using the `glm::translate` matrix from the GLM library |
 | **[Video 12](https://youtu.be/CoQsSe83i3Y?si=dlPiiKfGrNdRekih)** <br> Duration: 5:28 | - Matrix multiplication and the transformation order from model to world coordinate <br> - Positioned 2 triangles and 2 squares, applying scale, rotation, and translation operations |
 | **[Video 13](https://youtu.be/aKEyOv2JreA?si=KvsEmTkOqSw-OPDN)** <br> Duration: 4:09 | - Discussed Vertex Array Object (VAO) <br> - No longer need to save the triangle (and square) position VBO and color VBO globally <br> - Now saving the triangle (and square) VAO <br> - Covered the `glBindVertexArray` function |
-| **[Video 14](https://youtu.be/fBftnaGB4ag?si=4318DQFLfEwB3_bl)** <br> Duration: 6:08 | - Talked about Element Buffer Object (EBO) <br> - Previously needed information of 2 triangles to render a square <br> - Now using an array of indices to connect and color the square <br> - Introduced another OpenGL object: `GL_ELEMENT_ARRAY_BUFFER` <br> - Covered the function `glDrawElements` |
+| **[Video 14](https://youtu.be/fBftnaGB4ag?si=4318DQFLfEwB3_bl)** <br> Duration: 6:08 | - Element Buffer Object (EBO) <br> - Previously needed information of 2 triangles to render a square <br> - Now using an array of indices to connect and color the square <br> - Introduced another OpenGL object: `GL_ELEMENT_ARRAY_BUFFER` <br> - Covered the function `glDrawElements` |
+| **[Video 15](https://youtu.be/HBKfZ1ADRzY?si=sYClMko6twaP0Sn8)** <br> Duration: 10:07 | - Created a unique buffer to retrieve information about square vertices' position, color, and indices <br> - Covered the function `glBufferSubData` |
+| **[Video 16](https://youtu.be/o8Nb3HR4n9c?si=rbTWPRGfupiS0Dsb)** <br> Duration: 14:02 | - Drew a cube with a single buffer <br> - Approached world coordinates to projection coordinates using the `glm::perspective` matrix |
 
 ## How to Use This Playlist
 
