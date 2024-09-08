@@ -22,6 +22,9 @@ Welcome to the **Modern OpenGL Essentials: First Steps Playlist** playlist! This
 | **[Video 14](https://youtu.be/fBftnaGB4ag?si=4318DQFLfEwB3_bl)** <br> Duration: 6:08 | - Element Buffer Object (EBO) <br> - Previously needed information of 2 triangles to render a square <br> - Now using an array of indices to connect and color the square <br> - Introduced another OpenGL object: `GL_ELEMENT_ARRAY_BUFFER` <br> - Covered the function `glDrawElements` |
 | **[Video 15](https://youtu.be/HBKfZ1ADRzY?si=sYClMko6twaP0Sn8)** <br> Duration: 10:07 | - Created a unique buffer to retrieve information about square vertices' position, color, and indices <br> - Covered the function `glBufferSubData` |
 | **[Video 16](https://youtu.be/o8Nb3HR4n9c?si=rbTWPRGfupiS0Dsb)** <br> Duration: 14:02 | - Drew a cube with a single buffer <br> - Approached world coordinates to projection coordinates using the `glm::perspective` matrix |
+| **[Video 17](https://youtu.be/XBiL4UVPags?si=NezXssll9aogd3Ae)** <br> Duration: 5:50 | - Created a Shader Object <br> - Constructor used: `Shader(vertexFilePath, fragFilePath)` |
+| **[Video 18](https://youtu.be/XAL-YM3MUFo?si=Oj82HcL_9SXEJP5D)** <br> Duration: 3:05 | - Finished the Shader class <br> - Implemented procedures to link the Shader |
+
 
 ## How to Use This Playlist
 
