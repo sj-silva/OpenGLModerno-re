@@ -1,6 +1,6 @@
-# Modern OpenGL Essentials: First Steps Playlist
+# Modern OpenGL Essentials
 
-Welcome to the **Modern OpenGL Essentials: First Steps Playlist** playlist! This series of 31 short videos is designed to help you get started with graphical programming using OpenGL. Whether you're a beginner or someone looking to brush up on the fundamentals, this playlist will guide you through the essential concepts and techniques needed for 2D and 3D rendering.
+Welcome to the **Modern OpenGL Essentials** playlist! This series of 31 short videos is designed to help you get started with graphical programming using OpenGL. Whether you're a beginner or someone looking to brush up on the fundamentals, this playlist will guide you through the essential concepts and techniques needed for 2D and 3D rendering.
 
 ## Playlist Overview
 
