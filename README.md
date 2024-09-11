@@ -28,12 +28,7 @@ Welcome to the **Modern OpenGL Essentials: First Steps Playlist** playlist! This
 | **[Video 20](https://youtu.be/lqQgYoC-Qhw?si=MfDHk0gBkZcf0HIt)** | 9:14 | - Created a class to draw a Cube <br> - Shared a Khronos page dealing with questions such as how to use `glUniforms` and when to call `glUseProgram` |
 | **[Video 21](https://youtu.be/NshL3l-tTGk?si=sSS67laY-Gcp4V5D)** | 7:22 | - Discussed instancing in an older approach <br> - Created 4 squares from a buffer but had to call `glDrawElements` 4 times, which is inefficient <br> - This highlights an incorrect approach that will be explained in future videos |
 | **[Video 22](https://youtu.be/CoHh3CorSBk?si=bhmJ8Bg4wfKyvZKm)** | 10:51 | - Practiced another instancing technique <br> - Drew 4 squares using glDrawElementsInstanced, improving efficiency <br> - Created a VBO to store the center offsets of the 4 squares <br> - Used the array glm::vec2 centerOffSet[4] to pass position data <br> - Implemented glVertexAttribDivisor(2, 1) to update the center offset once per instance, allowing unique square positions without multiple draw calls |
-
-
-
----
-
-This follows the format you wanted and includes the key instancing technique along with `glVertexAttribDivisor`. Let me know if this looks good!
+| **[Video 23](https://youtu.be/H2emM64XzD0?si=OYjNAktjbk0lzXuo)** | 10:47 | - Created a VBO to store 4 matrices for instancing <br> - Discussed the size parameter of `glVertexAttribPointer`, which must be 1, 2, 3, or 4 <br> - Since we are storing a 4x4 matrix, we sent 4 `glm::vec4` (each representing a row of the matrix) to the shader, rather than passing 16 individual floats|
 
 ## How to Use This Playlist
 
