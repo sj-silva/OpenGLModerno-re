@@ -33,7 +33,7 @@ Welcome to the **Modern OpenGL Essentials** playlist! This series of 31 short vi
 | **[Video 25](https://youtu.be/xMkjMIiv4do?si=7ewFjrVDrX3Eu_0G)** | 6:18 | - Refactored the Cube class <br> - The constructor now requires the total number of cubes <br> - The model matrices of the cubes are stored in a VBO <br> - For the draw function, glDrawElementsInstanced was used, allowing all 4 cubes to be displayed with a single draw call |
 | **[Video 26](https://youtu.be/jPSK74riILc?si=2ZhVB1vTjlEAGsas)** | 6:10 | - Discussed the use of multiple shaders applied to a Terrain class <br> - The model-view matrix for the terrain is the identity matrix <br> - Two programs were created: one compiled with Main.vert + Main.frag, and the other with Minor.vert + Main.frag |
 | **[Video 27](https://youtu.be/jBo3ZecM_gs?si=finJdUXjZ6BL9QK3)** | 6:02 | - Used `glDrawElements` with `GL_LINES` to display the terrain <br> - Emphasized binding MajorShader to draw cubes and MinorShader to display the terrain |
-
+| **[Video 28](https://youtu.be/CkILZbc5yTw?si=2CEaSNdTFJ0n8-Pv)** | 3:39 | - Created a base class called `Primitive` <br> - Developed a class to display pyramids |
 
 
 ## How to Use This Playlist
