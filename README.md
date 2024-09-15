@@ -34,6 +34,9 @@ Welcome to the **Modern OpenGL Essentials** playlist! This series of 31 short vi
 | **[Video 26](https://youtu.be/jPSK74riILc?si=2ZhVB1vTjlEAGsas)** | 6:10 | - Discussed the use of multiple shaders applied to a Terrain class <br> - The model-view matrix for the terrain is the identity matrix <br> - Two programs were created: one compiled with Main.vert + Main.frag, and the other with Minor.vert + Main.frag |
 | **[Video 27](https://youtu.be/jBo3ZecM_gs?si=finJdUXjZ6BL9QK3)** | 6:02 | - Used `glDrawElements` with `GL_LINES` to display the terrain <br> - Emphasized binding MajorShader to draw cubes and MinorShader to display the terrain |
 | **[Video 28](https://youtu.be/CkILZbc5yTw?si=2CEaSNdTFJ0n8-Pv)** | 3:39 | - Created a base class called `Primitive` <br> - Developed a class to display pyramids |
+| **[Video 29](https://youtu.be/W24fyVyD8PE?si=jioywBtXqu8sEfUj)** | 7:09 | - Created a class for the camera <br> - Discussed the `glm::lookAt` function |
+| **[Video 30](https://youtu.be/0ZwJRZ4ywSQ?si=QyORtBoC5Uz_XsBf)** | 8:25 | - Updated the camera class to interact with the mouse <br> - Displacement in the x-axis creates a yaw rotation (rotation around the y-axis) |
+| **[Video 31](https://youtu.be/D8zgMt_WJ6k?si=pwt1iC2cM7kcQ6zq)** | 3:57 | - Created a scenario with 2000 objects |
 
 
 ## How to Use This Playlist
