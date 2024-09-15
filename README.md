@@ -31,8 +31,8 @@ Welcome to the **Modern OpenGL Essentials** playlist! This series of 31 short vi
 | **[Video 23](https://youtu.be/H2emM64XzD0?si=OYjNAktjbk0lzXuo)** | 10:47 | - Created a VBO to store 4 matrices for instancing <br> - Discussed the size parameter of `glVertexAttribPointer`, which must be 1, 2, 3, or 4 <br> - Since we are storing a 4x4 matrix, we sent 4 `glm::vec4` (each representing a row of the matrix) to the shader, rather than passing 16 individual floats|
 | **[Video 24](https://youtu.be/rW0o5ghXVWU?si=fSbWy8YHW33rdLlR)** | 2:37 | - Applied the matrix instancing strategy from video 21 to display 4 cubes on the screen <br> - Did not use a VBO to store the matrices; instead, positioned and rotated each cube by manipulating the model-to-world matrix <br> - Still used glDrawElements, but had to call the draw function 4 times <br> - Highlighted the inefficiency of this approach—imagine if there were 2000 cubes, making it clear this strategy is not optimal for large-scale rendering |
 | **[Video 25](https://youtu.be/xMkjMIiv4do?si=7ewFjrVDrX3Eu_0G)** | 6:18 | - Refactored the Cube class <br> - The constructor now requires the total number of cubes <br> - The model matrices of the cubes are stored in a VBO <br> - For the draw function, glDrawElementsInstanced was used, allowing all 4 cubes to be displayed with a single draw call |
-
-
+| **[Video 26](https://youtu.be/jPSK74riILc?si=2ZhVB1vTjlEAGsas)** | 6:10 | - Discussed the use of multiple shaders applied to a Terrain class <br> - The model-view matrix for the terrain is the identity matrix <br> - Two programs were created: one compiled with Main.vert + Main.frag, and the other with Minor.vert + Main.frag |
+| **[Video 27](https://youtu.be/jBo3ZecM_gs?si=finJdUXjZ6BL9QK3)** | 6:02 | - Used `glDrawElements` with `GL_LINES` to display the terrain <br> - Emphasized binding MajorShader to draw cubes and MinorShader to display the terrain |
 
 
 
